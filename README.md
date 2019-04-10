@@ -23,5 +23,4 @@ Submission
 In the form, you would have to submit the CSV file of test labels. CSV file should be named as
 your_full_name.csv each row of this file should be the following:-
 ● Test_image_index, predicted class
-Dataset folder has a sample submission file. Strictly follow that format(Follow the exact format.
-Make sure case and the name of headers are same. No extra index columns).
+Dataset folder has a sample submission file. 
